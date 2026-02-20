@@ -2,6 +2,9 @@
 
 This app is a demo for a job interview. It should provide a showcase for an app that demonstrates client/server component structure, persisted state and localstorage and simulates multi user interaction in a modern React architecture.
 
+## Live demo
+(Click here to go to the live demo)[https://kras-kalender.vercel.app/]
+
 ## Architecture
 
 page.tsx (Server Component)
